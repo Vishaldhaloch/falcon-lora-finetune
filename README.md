@@ -46,14 +46,7 @@ prompt = "The movie was absolutely wonderful because"
 
 ## Output:
 Generated Output:
-The movie was absolutely wonderful because it had the right amount of action, drama and romance. I don’t think I have ever laughed so much at a movie. I was actually crying at some of the scenes because I was so happy. I just loved the movie and it was so good.- You are here:
-- Government
-- Departments
-- Public Works
-- Floodplain Management
-Floodplain Management
-Floodplain Management
-Floodplain management is the management of the flooding associated with natural
+The movie was absolutely wonderful because it had the right amount of action, drama and romance. I don’t think I have ever laughed so much at a movie. I was actually crying at some of the scenes because I was so happy.
 
 ## ☁️ Push to Hugging Face Hub
 To upload your adapter to your Hugging Face account:
